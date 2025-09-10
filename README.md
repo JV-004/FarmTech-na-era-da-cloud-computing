@@ -37,8 +37,6 @@ Nesta entrega desenvolvemos:
 | 🇧🇷 América do Sul (São Paulo) | **32,13**             | **385,56**           |
 | 🇺🇸 Leste dos EUA (Virgínia)   | 19,18                 | 230,16               |
 
-### 🔹 Print da Calculadora AWS
-![Estimativa AWS](./2cff0759-2fa0-4717-8dbd-a073060e7fb5.png)
 
 ### 🔹 Justificativa Técnica
 - 💲 **Preço**: A região da Virgínia do Norte é ~40% mais barata que São Paulo.  
