@@ -45,7 +45,7 @@ Nesta entrega desenvolvemos:
 
 🎥 [Vídeo explicativo – AWS](https://youtu.be/5fKAKUVPt4Y)  
 
-📂 Documentação complementar: [Entrega 2 – Orçamento AWS]](https://github.com/JV-004/FarmTech-na-era-da-cloud-computing/blob/master/utils/Entrega_2_-_orçamento.docx)
+📂 Documentação complementar: [Entrega 2 – Orçamento AWS](https://github.com/JV-004/FarmTech-na-era-da-cloud-computing/blob/master/utils/Entrega_2_-_orçamento.docx)
 
 ---
 
