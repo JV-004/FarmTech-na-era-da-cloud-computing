@@ -17,7 +17,7 @@ Nesta entrega desenvolvemos:
 - 🤖 **Modelagem supervisionada** com 5 algoritmos diferentes para prever o rendimento da safra  
 - 📈 **Comparação de métricas (R², RMSE, MAE)** para selecionar o melhor modelo  
 
-📘 [Notebook Jupyter – Entrega 1](./NOME_DO_ARQUIVO.ipynb)  
+📘 [Notebook Jupyter – Entrega 1](https://github.com/JV-004/FarmTech-na-era-da-cloud-computing/blob/master/JUPYTER-CAP1/pbl_fase4_completo.ipynb)  
 🎥 [Vídeo explicativo – Machine Learning](https://youtu.be/pmuQZtxbU_g)  
 
 ---
@@ -32,11 +32,10 @@ Nesta entrega desenvolvemos:
 - 🐧 Sistema operacional: Linux  
 
 ### 🔹 Comparação de Custos
-| Região                      | Custo Mensal (USD) | Custo Anual (USD) |
-|-----------------------------|--------------------|------------------|
-| América do Sul (São Paulo) | **32,13**          | **385,56**       |
-| Leste dos EUA (Virgínia)   | 19,18              | 230,16           |
-
+| 🌍 Região                  | 💵 Custo Mensal (USD) | 📅 Custo Anual (USD) |
+|-----------------------------|-----------------------|----------------------|
+| 🇧🇷 América do Sul (São Paulo) | **32,13**             | **385,56**           |
+| 🇺🇸 Leste dos EUA (Virgínia)   | 19,18                 | 230,16               |
 
 ### 🔹 Justificativa Técnica
 - 💲 **Preço**: A região da Virgínia do Norte é ~40% mais barata que São Paulo.  
@@ -45,9 +44,11 @@ Nesta entrega desenvolvemos:
 
 🎥 [Vídeo explicativo – AWS](https://youtu.be/5fKAKUVPt4Y)  
 
+📂 Documentação complementar: [Entrega 2 – Orçamento AWS](./Entrega_2_-_orçamento.docx)  
+
 ---
 
 ## ✅ Conclusão
-- 🚜 Aplicamos **Machine Learning** para prever o rendimento de safras agrícolas, identificando padrões de produtividade.  
-- ☁️ A análise de custos na **AWS** mostrou o trade-off entre **economia (Virgínia)** e **conformidade legal + latência (São Paulo)**.  
-- 🔒 A recomendação final é utilizar a região **São Paulo**, garantindo **segurança, confiabilidade e conformidade legal**.  
+- 🤖 Foi possível aplicar **Machine Learning** para prever o rendimento de safras agrícolas, explorando padrões de produtividade.  
+- ☁️ A análise de custos na **AWS** demonstrou o trade-off entre **economia (Virgínia)** e **conformidade legal + latência (São Paulo)**.  
+- 📌 A recomendação final é a utilização da região **São Paulo**, garantindo respeito às restrições legais e confiabilidade dos dados. 
