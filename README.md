@@ -37,6 +37,9 @@ Nesta entrega desenvolvemos:
 | 🇧🇷 América do Sul (São Paulo) | **32,13**             | **385,56**           |
 | 🇺🇸 Leste dos EUA (Virgínia)   | 19,18                 | 230,16               |
 
+### 🔹 Print da Calculadora AWS
+![Estimativa AWS](./2cff0759-2fa0-4717-8dbd-a073060e7fb5.png)
+
 ### 🔹 Justificativa Técnica
 - 💲 **Preço**: A região da Virgínia do Norte é ~40% mais barata que São Paulo.  
 - ⏱️ **Latência**: Instâncias em São Paulo oferecem menor tempo de resposta para sensores agrícolas no Brasil.  
@@ -44,11 +47,11 @@ Nesta entrega desenvolvemos:
 
 🎥 [Vídeo explicativo – AWS](https://youtu.be/5fKAKUVPt4Y)  
 
-📂 Documentação complementar: [Entrega 2 – Orçamento AWS](./Entrega_2_-_orçamento.docx)  
+📂 Documentação complementar: [Entrega 2 – Orçamento AWS](https://github.com/JV-004/FarmTech-na-era-da-cloud-computing/blob/master/Entrega_2_-_orçamento.docx)  
 
 ---
 
 ## ✅ Conclusão
 - 🤖 Foi possível aplicar **Machine Learning** para prever o rendimento de safras agrícolas, explorando padrões de produtividade.  
 - ☁️ A análise de custos na **AWS** demonstrou o trade-off entre **economia (Virgínia)** e **conformidade legal + latência (São Paulo)**.  
-- 📌 A recomendação final é a utilização da região **São Paulo**, garantindo respeito às restrições legais e confiabilidade dos dados. 
+- 📌 A recomendação final é a utilização da região **São Paulo**, garantindo respeito às restrições legais e confiabilidade dos dados.
